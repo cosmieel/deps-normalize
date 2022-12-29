@@ -1,5 +1,5 @@
 {
-  "name": "deps-normalize",
+  "name": "@regru/deps-normalize",
   "version": "2.5.0",
   "description": "Dependencies normalization for gulp-bem",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatdrop/deps-normalize"
+    "url": "git+https://github.com/floatdrop/deps-normalize.git"
   },
   "keywords": [
     "gulp",
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/floatdrop/deps-normalize/issues"
   },
-  "homepage": "https://github.com/floatdrop/deps-normalize"
+  "homepage": "https://github.com/floatdrop/deps-normalize",
+  "directories": {
+    "test": "test"
+  }
 }
